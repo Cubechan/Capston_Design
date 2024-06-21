@@ -8,7 +8,7 @@
 ## 블럭도
 ![CSproject1 drawio](https://github.com/kst0626/CSproject/assets/152972876/3dab4bc3-7c54-4e23-912d-a7a37055cd9f)
 
-*미디어파이프(Mediapipe) - 구글에서 주로 인체를 대상으로 하는 비전 인식기능들을 AI모델 개발과 기계 학습까지 마친 상태로 제공하는 서비스
+*미디어파이프(Mediapipe)-구글에서 주로 인체를 대상으로 하는 비전 인식기능들을 AI모델 개발과 기계 학습까지 마친 상태로 제공하는 서비스
 
 *OpenCV - Open Source Computer Vision의 약자로 영상 처리에 사용할 수 있는 오픈 소스 라이브러리
 
