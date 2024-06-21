@@ -21,5 +21,5 @@ https://github.com/Cubechan/Capston_Design/assets/168626501/7437446c-05b3-48f4-8
 https://github.com/Cubechan/Capston_Design/assets/168626501/3d385356-4651-469c-9038-358d5fbac586
 
 
-## Mediapipe에서 포즈 취한 후 tts출력
+## Mediapipe에서 스쿼트 운동 자세 실시간으로 출력, tts 출력
 https://github.com/kst0626/CSproject/assets/152972876/72130d87-24df-4c5d-a6f4-ecf50c7630af
