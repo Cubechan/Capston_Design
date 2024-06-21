@@ -1,4 +1,4 @@
-## CSproject
+## CSproject-AI 헬스 트레이너
 ## 조명: CS
 
 ## 조원: 김승태, 한지상, 정의찬, 이채은
