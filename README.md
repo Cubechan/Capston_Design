@@ -8,6 +8,11 @@
 ## 블럭도
 ![CSproject1 drawio](https://github.com/kst0626/CSproject/assets/152972876/3dab4bc3-7c54-4e23-912d-a7a37055cd9f)
 
+## 라즈베리파이 가상 환경 구축 후 가속도 센서를 통해  x, y, z 좌표 출력 (5/2)
+https://github.com/Cubechan/Capston_Design/assets/168626501/7437446c-05b3-48f4-8e73-ec88bbc936ec
+
+
+
 ## tts 가상환경에서 구현(5/22)
 https://github.com/Cubechan/Capston_Design/assets/168626501/3d385356-4651-469c-9038-358d5fbac586
 
