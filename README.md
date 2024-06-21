@@ -12,6 +12,8 @@
 
 *OpenCV - Open Source Computer Vision의 약자로 영상 처리에 사용할 수 있는 오픈 소스 라이브러리
 
+*JSON - "JavaScript Object Notation"의 약자로 데이터를 쉽게 교환하고 저장하기 위한 텍스트 기반의 개방형 데이터 교환 형식
+
 ## 라즈베리파이 가상 환경 구축 후 가속도 센서를 통해  x, y, z 좌표 출력 (5/2)
 https://github.com/Cubechan/Capston_Design/assets/168626501/7437446c-05b3-48f4-8e73-ec88bbc936ec
 
